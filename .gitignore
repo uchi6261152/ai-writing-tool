@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.venv/
+
+# .agents/skills/skill-creator へのリンク（本体は .agents 側で管理）
+.claude/skills/skill-creator
